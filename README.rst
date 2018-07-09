@@ -1,4 +1,4 @@
-C3's stuff for OBS Studio
+c3's stuff for OBS Studio
 ==============================================================
 
 So I needed and wanted to write some plug-ins and filters for OBS Studio that
