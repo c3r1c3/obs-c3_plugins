@@ -116,3 +116,5 @@ tags
 *~
 */.DS_Store
 */**/.DS_Store
+.vs/
+c3-asio/SDK/
