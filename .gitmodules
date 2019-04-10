@@ -1,0 +1,3 @@
+[submodule "c3-midi/rtmidi"]
+	path = c3-midi/rtmidi
+	url = https://github.com/thestk/rtmidi.git
